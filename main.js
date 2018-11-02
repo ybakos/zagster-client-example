@@ -1,1 +1,5 @@
-alert('Sweet Potatoes, lotsa sweet potatoes');
+$(updateView)
+
+function updateView() {
+  alert('Sweet Potatoes, lotsa sweet potatoes')
+}
